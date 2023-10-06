@@ -26,3 +26,11 @@ header {
     max-width: 600px; /* Optional: Limit the maximum width of the sections */
     text-align: left; /* Align text inside the sections to the left */
 }
+
+/* put the frame in center of the screen  */
+iframe {
+    align-items: center;
+    justify-content: center;
+    max-zoom: 1.5;
+
+}
